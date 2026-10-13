@@ -1,0 +1,8 @@
+telegram:
+  bot-token: "ТОКЕН_ТВОЕГО_БОТА_СЮДА"
+  bot-username: "votisworld_bot"
+freeze:
+  block-movement: true
+  block-commands: true
+  allowed-commands:
+    - "link"
