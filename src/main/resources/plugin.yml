@@ -1,0 +1,10 @@
+name: TelegramAuth
+version: '1.0.0'
+main: ru.example.telegramauth.TelegramAuthPlugin
+api-version: '1.21'
+authors: [ Admin ]
+description: Telegram Authentication Plugin
+commands:
+  link:
+    description: Get link code
+    usage: /link
